@@ -1,0 +1,28 @@
+{
+  "name": "file-host",
+  "description": "Use a discord as file host/cdn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanvishGG/File-Host.git"
+  },
+  "keywords": [
+    "file-host",
+    "file-cdn",
+    "cdn"
+  ],
+  "author": "TanvishGG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TanvishGG/File-Host/issues"
+  },
+  "homepage": "https://github.com/TanvishGG/File-Host#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "snowflake-generator": "^1.0.2"
+  }
+}
