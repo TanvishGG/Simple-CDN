@@ -1,28 +1,28 @@
 {
-  "name": "file-host",
-  "description": "Use a discord as file host/cdn",
+  "name": "simple-cdn",
   "version": "1.0.0",
+  "description": "Simple CDN source code using express",
   "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "snowflake-generator": "^1.0.2"
+  },
   "scripts": {
     "test": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TanvishGG/File-Host.git"
+    "url": "git+https://github.com/TanvishGG/Simple-CDN.git"
   },
   "keywords": [
+    "cdn",
     "file-host",
-    "file-cdn",
-    "cdn"
+    "file-cdn"
   ],
   "author": "TanvishGG",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TanvishGG/File-Host/issues"
+    "url": "https://github.com/TanvishGG/Simple-CDN/issues"
   },
-  "homepage": "https://github.com/TanvishGG/File-Host#readme",
-  "dependencies": {
-    "express": "^4.18.2",
-    "snowflake-generator": "^1.0.2"
-  }
+  "homepage": "https://github.com/TanvishGG/Simple-CDN#readme"
 }
