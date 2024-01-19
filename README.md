@@ -32,3 +32,6 @@ add the following in `config.js`
   message: 'Error occured'
 }
 ```
+
+## Discord
+- https://discord.com/invite/xS8b8jQZZK
